@@ -1,0 +1,5 @@
+data/
+wandb/
+prediction/
+.ipynb_checkpoints/
+model.pth
