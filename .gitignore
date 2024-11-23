@@ -3,3 +3,5 @@ wandb/
 prediction/
 .ipynb_checkpoints/
 model.pth
+Score.png
+output.csv
